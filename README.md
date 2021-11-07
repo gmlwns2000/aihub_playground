@@ -27,6 +27,22 @@ After I finish my university assignment I don't have anything to do... so time t
 
 # Work In Progress
 
+## Project, 영상 프리뷰 만들어주는 웹사이트
+
+`project_video_preview_web`
+
+- [ ] 2021/11/7~
+
+비디오 요약 영상을 만드는 백엔드 서버와, 유튜브 url을 받아서 처리하는 프론트 엔드!
+
+## Task, [비디오 요약 영상, Video Summary, 중간](https://aihub.or.kr/aidata/27717)
+
+`task_video_summary_highlight`
+
+- [ ] 2021/11/7~
+
+그저 할뿐
+
 ## Project, 보행자용 객체 인식 라이다 알람 시스탬
 
 `project_blind_lidar`
@@ -69,7 +85,7 @@ Object detection 모델을 제작한다.
 
 ## [비디오 요약 영상, Video Summary, 중간](https://aihub.or.kr/aidata/27717)
 
-- [ ] 
+- [ ] gogo
 
 ### 요약
 
