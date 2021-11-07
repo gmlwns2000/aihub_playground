@@ -2,4 +2,4 @@
 
 [https://aihub.or.kr/aidata/34125](https://aihub.or.kr/aidata/34125)
 
-데이터셋이 너무 큰 관계로 DiskL/Dataset/에 받아버리기
+데이터셋은 그냥 냅두고 학습된걸 쓰는걸로..!
